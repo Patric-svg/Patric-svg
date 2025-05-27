@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practicr CSS & JS</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .box {
+            width:200px;
+            height:100px;
+            background-color:blueviolet;
+            padding: 20px;
+            border:5px solid green;
+            margin:30px auto;
+            text-align:center;
+            transition:background-color 0.3s;
+        }
+        .box:hover {
+            background-color:rgb(27, 3, 3);
+        }
+
+        button{
+            display:block;
+            margin:10px auto;
+            padding:10px 20px;
+            font-size:10px;
+
+        }
+    </style>
+</head>
+</body>
+    <div class="box" id="myBox">I DID IT...</div>
+    <button id="btn">change  text</button>
+    <script>
+        const button=document.getElementById(btn);
+        const box=document.getElementById(myBox);
+
+        buttom.addEventListener("click",()=>{
+        console.log("button clicked");
+            box.inNerText="Text changed!";})
+    </script>
+</body>
+</html>
