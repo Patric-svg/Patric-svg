@@ -10,7 +10,7 @@
 - use tools like Nmap, Metasploit &Wire shark
 - code simple automation scripts
 - 
--  I’m looking to collaborate...
+-  I’m looking to collaborate with other developers and campanies.
 -  how to reach me ...
 -  Pronouns: him
 -  Fun fact: I enjoy breaking things (ethically) to learn how they work! as a grey hacker.
