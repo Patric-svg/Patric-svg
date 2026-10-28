@@ -22,6 +22,6 @@ I am an IT student at Kisii University specializing in full-stack web developmen
 
 ### 📫 Connect with Me
 *   **Collaborations:** Always open to collaborating with other developers and companies on SaaS, fintech, or security projects.
-*   **Reach Me:** https://www.linkedin.com/in/patrick-mburu-88689b41a
+*   **Reach Me:** https://www.linkedin.com/in/patrick-mburu
 
 ⚡ *Fun fact: I enjoy breaking things (ethically) as a grey-hat hacker to understand exactly how they work under the hood.*
